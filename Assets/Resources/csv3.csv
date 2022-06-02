@@ -1,0 +1,4 @@
+id,sensorName,data,time,date
+0,presenceSensor,person detected,12,15
+1,doorSensor,person entered,12,15
+2,cameraSensor,4,12,15

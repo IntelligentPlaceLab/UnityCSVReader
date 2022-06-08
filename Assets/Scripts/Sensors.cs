@@ -5,13 +5,15 @@ using UnityEngine;
 public class Sensors
 {
     //this is the sensor id
-    public int id;
-    //this is the sensor name in string
-    public string sensorName;
-    //this is the sensor data TODO change to different data type
-    public string data;
-    //this it the sensor time
-    public int time;
+    public string SensorID;
+    //this is the sensor type in string
+    public string Type;
+    //this is the sensor location
+    public string Location;
+    //this it the event recorded TODO cahnge to different inputs
+    public string Event;
     //this is the sensor date
-    public int date;
+    public string Time;
+
+    public string Day;
 }

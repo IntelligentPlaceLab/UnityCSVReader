@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SPkanz3dJJQ2pAd8xxR6fpnH+1G0pmWOXuwBd3RoR7FnSnwSPaI0D559q9bdqspx88ENHaZdNjrm3tu8IM4/8Q==",
+  "dgSpecHash": "u5BC4kHpFGG0xJ4lcYkpCFooGhPiOKTxq+WFPTRduQFA5PpsEdOU3pxZ95zV/JotBI7mtdSNfBrdvQBM3MRwgA==",
   "success": true,
-  "projectFilePath": "/Users/ben/Documents/Unity/Projects/csv_try_2/csv_try_2.csproj",
+  "projectFilePath": "/Users/ben/Documents/Unity/Projects/UnityCSVReader/UnityCSVReader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

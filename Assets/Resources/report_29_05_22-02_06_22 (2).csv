@@ -1,0 +1,316 @@
+sensorID,Type,Location,Event,Time,Day
+V-01,Rpi Camera,somehwere,1,15:51:31,29/05/22
+V-01,Rpi Camera,somehwere,0,15:51:39,29/05/22
+V-01,Rpi Camera,somehwere,0,15:51:47,29/05/22
+V-01,Rpi Camera,somehwere,0,15:51:55,29/05/22
+V-01,Rpi Camera,somehwere,0,15:52:03,29/05/22
+V-01,Rpi Camera,somehwere,0,15:52:10,29/05/22
+V-01,Rpi Camera,somehwere,0,15:52:18,29/05/22
+V-01,Rpi Camera,somehwere,0,15:52:26,29/05/22
+V-01,Rpi Camera,somehwere,0,15:52:34,29/05/22
+V-01,Rpi Camera,somehwere,0,15:52:42,29/05/22
+V-01,Rpi Camera,somehwere,0,15:52:49,29/05/22
+V-01,Rpi Camera,somehwere,0,15:52:58,29/05/22
+V-01,Rpi Camera,somehwere,0,15:53:06,29/05/22
+V-01,Rpi Camera,somehwere,0,15:53:14,29/05/22
+V-01,Rpi Camera,somehwere,0,15:53:21,29/05/22
+V-01,Rpi Camera,somehwere,1,15:53:29,29/05/22
+V-01,Rpi Camera,somehwere,1,15:53:37,29/05/22
+V-01,Rpi Camera,somehwere,1,15:55:38,29/05/22
+V-01,Rpi Camera,somehwere,1,15:55:46,29/05/22
+V-01,Rpi Camera,somehwere,1,15:55:54,29/05/22
+V-01,Rpi Camera,somehwere,1,15:57:51,29/05/22
+V-01,Rpi Camera,somehwere,1,15:57:59,29/05/22
+V-01,Rpi Camera,somehwere,1,15:58:07,29/05/22
+V-01,Rpi Camera,somehwere,0,15:58:16,29/05/22
+V-01,Rpi Camera,somehwere,1,15:58:24,29/05/22
+V-01,Rpi Camera,somehwere,1,16:00:56,29/05/22
+V-01,Rpi Camera,somehwere,1,16:01:45,29/05/22
+V-01,Rpi Camera,somehwere,1,16:01:53,29/05/22
+V-01,Rpi Camera,somehwere,1,16:02:01,29/05/22
+V-01,Rpi Camera,somehwere,1,16:02:09,29/05/22
+V-01,Rpi Camera,somehwere,1,16:02:17,29/05/22
+V-01,Rpi Camera,somehwere,1,16:02:25,29/05/22
+V-01,Rpi Camera,somehwere,1,16:02:33,29/05/22
+V-01,Rpi Camera,somehwere,1,16:02:41,29/05/22
+V-01,Rpi Camera,somehwere,1,16:02:49,29/05/22
+V-01,Rpi Camera,somehwere,1,16:05:31,29/05/22
+V-01,Rpi Camera,somehwere,1,16:05:39,29/05/22
+V-01,Rpi Camera,somehwere,1,16:05:47,29/05/22
+V-01,Rpi Camera,somehwere,1,16:05:55,29/05/22
+V-01,Rpi Camera,somehwere,1,16:06:04,29/05/22
+V-01,Rpi Camera,somehwere,1,16:06:12,29/05/22
+V-01,Rpi Camera,somehwere,1,16:06:46,29/05/22
+V-01,Rpi Camera,somehwere,1,16:06:54,29/05/22
+V-01,Rpi Camera,somehwere,1,16:07:03,29/05/22
+V-01,Rpi Camera,somehwere,1,16:07:11,29/05/22
+V-01,Rpi Camera,somehwere,1,16:07:20,29/05/22
+V-01,Rpi Camera,somehwere,1,16:07:28,29/05/22
+V-01,Rpi Camera,somehwere,1,16:07:36,29/05/22
+V-01,Rpi Camera,somehwere,1,16:07:44,29/05/22
+S-01,Sonar,Desktop 1,NO,12:34:51,30/05/22
+S-02,Sonar,sada,ERROR,12:34:52,30/05/22
+S-03,Sonar,Desktop 3,ERROR,12:34:53,30/05/22
+S-04,Sonar,desktop 4,ERROR,12:34:54,30/05/22
+S-05,Sonar,sada,YES,12:34:55,30/05/22
+S-01,Sonar,Desktop 1,YES,12:35:10,30/05/22
+S-02,Sonar,sada,ERROR,12:35:11,30/05/22
+S-03,Sonar,Desktop 3,ERROR,12:35:12,30/05/22
+S-04,Sonar,desktop 4,ERROR,12:35:14,30/05/22
+S-05,Sonar,sada,YES,12:35:14,30/05/22
+S-01,Sonar,Desktop 1,YES,12:35:28,30/05/22
+S-02,Sonar,sada,ERROR,12:35:29,30/05/22
+S-03,Sonar,Desktop 3,ERROR,12:35:30,30/05/22
+S-04,Sonar,desktop 4,ERROR,12:35:31,30/05/22
+S-05,Sonar,sada,ERROR,12:35:31,30/05/22
+S-01,Sonar,Desktop 1,NO,12:35:45,30/05/22
+S-02,Sonar,sada,ERROR,12:35:46,30/05/22
+S-03,Sonar,Desktop 3,ERROR,12:35:47,30/05/22
+S-04,Sonar,desktop 4,ERROR,12:35:48,30/05/22
+S-05,Sonar,sada,ERROR,12:35:49,30/05/22
+S-01,Sonar,Desktop 1,NO,12:36:02,30/05/22
+S-02,Sonar,sada,ERROR,12:36:03,30/05/22
+S-03,Sonar,Desktop 3,ERROR,12:36:04,30/05/22
+S-04,Sonar,desktop 4,ERROR,12:36:06,30/05/22
+S-05,Sonar,sada,ERROR,12:36:07,30/05/22
+S-01,Sonar,Desktop 1,YES,12:36:21,30/05/22
+S-02,Sonar,sada,ERROR,12:36:22,30/05/22
+S-03,Sonar,Desktop 3,ERROR,12:36:23,30/05/22
+S-04,Sonar,desktop 4,ERROR,12:36:24,30/05/22
+S-05,Sonar,sada,ERROR,12:36:25,30/05/22
+S-01,Sonar,Desktop 1,ERROR,12:36:38,30/05/22
+S-02,Sonar,sada,ERROR,12:36:39,30/05/22
+S-03,Sonar,Desktop 3,ERROR,12:36:39,30/05/22
+S-04,Sonar,desktop 4,ERROR,12:36:40,30/05/22
+S-05,Sonar,sada,ERROR,12:36:41,30/05/22
+S-01,Sonar,Desktop 1,YES,12:36:55,30/05/22
+S-02,Sonar,sada,ERROR,12:36:55,30/05/22
+S-03,Sonar,Desktop 3,ERROR,12:36:56,30/05/22
+S-04,Sonar,desktop 4,ERROR,12:36:57,30/05/22
+S-05,Sonar,sada,ERROR,12:36:58,30/05/22
+V-01,Rpi Camera,somehwere,2,10:20:00,31/05/22
+V-01,Rpi Camera,somehwere,0,10:20:03,31/05/22
+V-01,Rpi Camera,somehwere,2,10:20:08,31/05/22
+V-01,Rpi Camera,somehwere,0,10:20:16,31/05/22
+V-01,Rpi Camera,somehwere,2,10:20:24,31/05/22
+V-01,Rpi Camera,somehwere,0,10:20:29,31/05/22
+V-01,Rpi Camera,somehwere,2,10:20:31,31/05/22
+V-01,Rpi Camera,somehwere,2,10:20:39,31/05/22
+V-01,Rpi Camera,somehwere,1,10:20:42,31/05/22
+V-01,Rpi Camera,somehwere,1,10:20:46,31/05/22
+V-01,Rpi Camera,somehwere,1,10:20:54,31/05/22
+V-01,Rpi Camera,somehwere,1,10:20:55,31/05/22
+V-01,Rpi Camera,somehwere,1,10:21:02,31/05/22
+V-01,Rpi Camera,somehwere,1,10:21:09,31/05/22
+V-01,Rpi Camera,somehwere,2,10:21:17,31/05/22
+V-01,Rpi Camera,somehwere,2,10:21:25,31/05/22
+V-01,Rpi Camera,somehwere,2,10:21:32,31/05/22
+V-01,Rpi Camera,somehwere,2,10:21:40,31/05/22
+V-01,Rpi Camera,somehwere,2,10:21:48,31/05/22
+V-01,Rpi Camera,somehwere,2,10:21:55,31/05/22
+V-01,Rpi Camera,somehwere,2,10:22:04,31/05/22
+V-01,Rpi Camera,somehwere,2,10:22:11,31/05/22
+V-01,Rpi Camera,somehwere,2,10:22:18,31/05/22
+V-01,Rpi Camera,somehwere,2,10:22:26,31/05/22
+V-01,Rpi Camera,somehwere,2,10:22:33,31/05/22
+V-01,Rpi Camera,somehwere,2,10:22:40,31/05/22
+V-01,Rpi Camera,somehwere,1,10:22:48,31/05/22
+V-01,Rpi Camera,somehwere,2,10:22:55,31/05/22
+V-01,Rpi Camera,somehwere,2,10:23:03,31/05/22
+V-01,Rpi Camera,somehwere,2,10:23:10,31/05/22
+V-01,Rpi Camera,somehwere,2,10:23:17,31/05/22
+V-01,Rpi Camera,somehwere,0,10:23:25,31/05/22
+V-01,Rpi Camera,somehwere,0,10:23:32,31/05/22
+V-01,Rpi Camera,somehwere,1,10:23:40,31/05/22
+V-01,Rpi Camera,somehwere,1,10:23:47,31/05/22
+V-01,Rpi Camera,somehwere,2,10:23:55,31/05/22
+S-01,Sonar,Desktop 1,YES,14:24:55,31/05/22
+S-02,Sonar,sada,ERROR,14:24:56,31/05/22
+S-03,Sonar,Desktop 3,ERROR,14:24:57,31/05/22
+S-04,Sonar,desktop 4,ERROR,14:24:57,31/05/22
+S-05,Sonar,sada,ERROR,14:24:59,31/05/22
+S-01,Sonar,Desktop 1,YES,14:25:12,31/05/22
+S-02,Sonar,sada,ERROR,14:25:13,31/05/22
+S-03,Sonar,Desktop 3,ERROR,14:25:14,31/05/22
+S-04,Sonar,desktop 4,ERROR,14:25:15,31/05/22
+S-05,Sonar,sada,ERROR,14:25:17,31/05/22
+S-01,Sonar,Desktop 1,YES,14:25:30,31/05/22
+S-02,Sonar,sada,ERROR,14:25:31,31/05/22
+S-03,Sonar,Desktop 3,ERROR,14:25:32,31/05/22
+S-04,Sonar,desktop 4,ERROR,14:25:34,31/05/22
+S-05,Sonar,sada,ERROR,14:25:35,31/05/22
+S-01,Sonar,Desktop 1,YES,14:25:48,31/05/22
+S-02,Sonar,sada,ERROR,14:25:49,31/05/22
+S-03,Sonar,Desktop 3,ERROR,14:25:50,31/05/22
+S-04,Sonar,desktop 4,ERROR,14:25:51,31/05/22
+S-05,Sonar,sada,ERROR,14:25:52,31/05/22
+S-01,Sonar,Desktop 1,YES,14:26:05,31/05/22
+S-02,Sonar,sada,ERROR,14:26:06,31/05/22
+S-03,Sonar,Desktop 3,ERROR,14:26:07,31/05/22
+S-04,Sonar,desktop 4,ERROR,14:26:18,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:13:12,31/05/22
+S-02,Sonar,sada,ERROR,15:13:13,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:13:14,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:13:15,31/05/22
+S-05,Sonar,sada,ERROR,15:13:16,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:13:27,31/05/22
+S-02,Sonar,sada,ERROR,15:13:28,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:13:29,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:13:31,31/05/22
+S-05,Sonar,sada,ERROR,15:13:32,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:13:43,31/05/22
+S-02,Sonar,sada,ERROR,15:13:44,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:13:44,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:13:46,31/05/22
+S-05,Sonar,sada,ERROR,15:13:47,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:13:58,31/05/22
+S-02,Sonar,sada,ERROR,15:13:59,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:14:00,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:14:01,31/05/22
+S-05,Sonar,sada,ERROR,15:14:03,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:14:14,31/05/22
+S-02,Sonar,sada,ERROR,15:14:15,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:14:17,31/05/22
+S-05,Sonar,sada,ERROR,15:14:19,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:14:31,31/05/22
+S-02,Sonar,sada,ERROR,15:14:32,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:14:34,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:14:35,31/05/22
+S-05,Sonar,sada,ERROR,15:14:36,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:14:48,31/05/22
+S-02,Sonar,sada,ERROR,15:14:49,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:14:50,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:14:51,31/05/22
+S-05,Sonar,sada,ERROR,15:14:52,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:15:03,31/05/22
+S-02,Sonar,sada,ERROR,15:15:04,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:15:06,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:15:07,31/05/22
+S-05,Sonar,sada,ERROR,15:15:08,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:15:19,31/05/22
+S-02,Sonar,sada,ERROR,15:15:21,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:15:25,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:15:27,31/05/22
+S-05,Sonar,sada,ERROR,15:15:29,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:15:45,31/05/22
+S-02,Sonar,sada,ERROR,15:15:47,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:15:48,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:16:02,31/05/22
+S-05,Sonar,sada,ERROR,15:16:07,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:16:20,31/05/22
+S-02,Sonar,sada,ERROR,15:16:26,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:16:27,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:16:28,31/05/22
+S-05,Sonar,sada,ERROR,15:16:29,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:16:41,31/05/22
+S-02,Sonar,sada,ERROR,15:16:42,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:16:43,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:16:44,31/05/22
+S-05,Sonar,sada,ERROR,15:16:45,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:16:57,31/05/22
+S-02,Sonar,sada,ERROR,15:16:58,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:16:59,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:17:00,31/05/22
+S-05,Sonar,sada,ERROR,15:17:01,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:18:02,31/05/22
+S-02,Sonar,sada,ERROR,15:18:03,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:18:05,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:18:05,31/05/22
+S-05,Sonar,sada,ERROR,15:18:06,31/05/22
+S-01,Sonar,Desktop 1,NO,15:37:55,31/05/22
+S-02,Sonar,sada,ERROR,15:37:56,31/05/22
+S-03,Sonar,Desktop 3,YES,15:37:57,31/05/22
+S-04,Sonar,desktop 4,NO,15:37:59,31/05/22
+S-05,Sonar,sada,NO,15:38:00,31/05/22
+S-01,Sonar,Desktop 1,NO,15:38:11,31/05/22
+S-02,Sonar,sada,ERROR,15:38:12,31/05/22
+S-03,Sonar,Desktop 3,YES,15:38:14,31/05/22
+S-04,Sonar,desktop 4,NO,15:38:15,31/05/22
+S-05,Sonar,sada,NO,15:38:16,31/05/22
+S-01,Sonar,Desktop 1,NO,15:38:27,31/05/22
+S-02,Sonar,sada,ERROR,15:38:28,31/05/22
+S-03,Sonar,Desktop 3,YES,15:38:29,31/05/22
+S-04,Sonar,desktop 4,NO,15:38:30,31/05/22
+S-05,Sonar,sada,NO,15:38:32,31/05/22
+S-01,Sonar,Desktop 1,NO,15:38:43,31/05/22
+S-02,Sonar,sada,ERROR,15:38:44,31/05/22
+S-03,Sonar,Desktop 3,YES,15:38:45,31/05/22
+S-04,Sonar,desktop 4,NO,15:38:46,31/05/22
+S-05,Sonar,sada,YES,15:38:47,31/05/22
+S-01,Sonar,Desktop 1,NO,15:38:59,31/05/22
+S-02,Sonar,sada,ERROR,15:39:01,31/05/22
+S-03,Sonar,Desktop 3,YES,15:39:03,31/05/22
+S-05,Sonar,sada,ERROR,15:39:06,31/05/22
+S-01,Sonar,Desktop 1,NO,15:39:19,31/05/22
+S-02,Sonar,sada,ERROR,15:39:21,31/05/22
+S-03,Sonar,Desktop 3,YES,15:39:22,31/05/22
+S-04,Sonar,desktop 4,NO,15:39:23,31/05/22
+S-05,Sonar,sada,YES,15:39:25,31/05/22
+S-01,Sonar,Desktop 1,NO,15:39:40,31/05/22
+S-02,Sonar,sada,ERROR,15:39:41,31/05/22
+S-03,Sonar,Desktop 3,YES,15:39:43,31/05/22
+S-04,Sonar,desktop 4,NO,15:39:44,31/05/22
+S-05,Sonar,sada,YES,15:39:46,31/05/22
+S-01,Sonar,Desktop 1,NO,15:39:58,31/05/22
+S-02,Sonar,sada,ERROR,15:39:59,31/05/22
+S-03,Sonar,Desktop 3,YES,15:40:03,31/05/22
+S-04,Sonar,desktop 4,NO,15:40:07,31/05/22
+S-05,Sonar,sada,NO,15:40:08,31/05/22
+S-01,Sonar,Desktop 1,NO,15:40:20,31/05/22
+S-02,Sonar,sada,ERROR,15:40:22,31/05/22
+S-03,Sonar,Desktop 3,YES,15:40:23,31/05/22
+S-04,Sonar,desktop 4,NO,15:40:24,31/05/22
+S-01,Sonar,Desktop 1,NO,15:40:44,31/05/22
+S-02,Sonar,sada,ERROR,15:40:45,31/05/22
+S-03,Sonar,Desktop 3,YES,15:40:47,31/05/22
+S-04,Sonar,desktop 4,NO,15:40:47,31/05/22
+S-05,Sonar,sada,NO,15:40:48,31/05/22
+S-01,Sonar,Desktop 1,NO,15:41:00,31/05/22
+S-02,Sonar,sada,ERROR,15:41:01,31/05/22
+S-03,Sonar,Desktop 3,YES,15:41:02,31/05/22
+S-04,Sonar,desktop 4,NO,15:41:03,31/05/22
+S-05,Sonar,sada,NO,15:41:04,31/05/22
+S-01,Sonar,Desktop 1,YES,15:41:15,31/05/22
+S-02,Sonar,sada,ERROR,15:41:17,31/05/22
+S-03,Sonar,Desktop 3,YES,15:41:17,31/05/22
+S-04,Sonar,desktop 4,NO,15:41:19,31/05/22
+S-05,Sonar,sada,NO,15:41:20,31/05/22
+S-01,Sonar,Desktop 1,NO,15:41:32,31/05/22
+S-02,Sonar,sada,ERROR,15:41:33,31/05/22
+S-03,Sonar,Desktop 3,YES,15:41:34,31/05/22
+S-04,Sonar,desktop 4,NO,15:41:35,31/05/22
+S-05,Sonar,sada,NO,15:41:36,31/05/22
+S-01,Sonar,Desktop 1,NO,15:41:47,31/05/22
+S-02,Sonar,sada,ERROR,15:41:48,31/05/22
+S-03,Sonar,Desktop 3,YES,15:41:49,31/05/22
+S-05,Sonar,sada,NO,15:41:51,31/05/22
+S-01,Sonar,Desktop 1,NO,15:42:03,31/05/22
+S-02,Sonar,sada,ERROR,15:42:04,31/05/22
+S-03,Sonar,Desktop 3,YES,15:42:05,31/05/22
+S-04,Sonar,desktop 4,NO,15:42:06,31/05/22
+S-05,Sonar,sada,NO,15:42:07,31/05/22
+S-01,Sonar,Desktop 1,NO,15:42:18,31/05/22
+S-02,Sonar,sada,ERROR,15:42:19,31/05/22
+S-03,Sonar,Desktop 3,YES,15:42:20,31/05/22
+S-04,Sonar,desktop 4,NO,15:42:21,31/05/22
+S-05,Sonar,sada,NO,15:42:22,31/05/22
+S-01,Sonar,Desktop 1,NO,15:42:34,31/05/22
+S-02,Sonar,sada,ERROR,15:42:35,31/05/22
+S-03,Sonar,Desktop 3,YES,15:42:36,31/05/22
+S-04,Sonar,desktop 4,NO,15:42:37,31/05/22
+S-05,Sonar,sada,NO,15:42:38,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:54:11,31/05/22
+S-02,Sonar,sada,NO,15:54:12,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:54:13,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:54:14,31/05/22
+S-05,Sonar,sada,ERROR,15:54:15,31/05/22
+S-01,Sonar,Desktop 1,ERROR,15:54:29,31/05/22
+S-02,Sonar,sada,NO,15:54:30,31/05/22
+S-03,Sonar,Desktop 3,ERROR,15:54:31,31/05/22
+S-04,Sonar,desktop 4,ERROR,15:54:31,31/05/22
+S-05,Sonar,sada,ERROR,15:54:32,31/05/22
+S-06,Sonar,adasda,ERROR,16:14:35,31/05/22
+S-07,Sonar,asd,ERROR,16:14:37,31/05/22
+S-08,Sonar,asda,ERROR,16:14:38,31/05/22
+S-09,Sonar,asda,ERROR,16:14:38,31/05/22
+S-10,Sonar,sadada,ERROR,16:14:40,31/05/22
